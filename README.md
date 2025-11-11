@@ -1,16 +1,17 @@
 # Email Style Matcher (Personal Project)
 
-**Goal**: Upload 3 of your past emails → **ChatGPT writes future ones in your exact voice**.
+**Goal**: Upload 3 of your past emails -> **ChatGPT writes future ones in your exact voice**.
 
-**Why?**  
+**Why**  
 - Never sound "off" in emails again  
 - Perfect for job apps, dating, or just fun  
-- **No ML training** — just **smart prompting + OpenAI API**
+- **No ML training** - just **smart prompting + OpenAI API**
 
 **Stack**:
 - Python + FastAPI
 - OpenAI (gpt-3.5-turbo)
 - Pandas
+- LangChain (optional)
 
 ---
 
