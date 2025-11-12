@@ -4,7 +4,7 @@
 
 **Why**  
 - Never sound "off" in emails again  
-- Perfect for job apps, dating, or just fun  
+- Perfect for marketing, job apps, or just fun  
 - **No ML training** - just **smart prompting + OpenAI API**
 
 **Stack**:
