@@ -1,4 +1,19 @@
 email_id,subject,body
-1,Quick update,Hey team,\n\nJust wanted to say the meeting went great! 🚀 Let me know if you need the slides.\n\nCheers,\nAlex
-2,Re: Project,Hi Sarah,\n\nThanks for the feedback. I’ll tweak the design and send v2 by EOD. Appreciate it!\n\nBest,\nAlex
-3,Weekend plans?,Hey all,\n\nAnyone up for coffee Saturday? ☕ I’m free after 2.\n\nLet me know,\nAlex
+1,Quick update,"Hey team,
+
+Just wanted to say the meeting went great! 🚀 Let me know if you need the slides.
+
+Cheers,
+Alex"
+2,Re: Project,"Hi Sarah,
+
+Thanks for the feedback. I’ll tweak the design and send v2 by EOD. Appreciate it!
+
+Best,
+Alex"
+3,Weekend plans?,"Hey all,
+
+Anyone up for coffee Saturday? ☕ I’m free after 2.
+
+Let me know,
+Alex"

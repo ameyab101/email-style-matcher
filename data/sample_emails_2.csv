@@ -1,4 +1,21 @@
 email_id,subject,body
-1,Meeting recap,Hi everyone 😊\n\nGreat chat today! Action items:\n- Alex: dashboard\n- Sam: data prep\n\nThanks,\nAlex
-2,Weekend plans?,Hi friends ☕\n\nAnyone up for coffee Saturday? Free after 2.\n\nThanks,\nAlex
-3,New feature alert!,Hi team 🚀\n\nDark‑mode toggle is live! Try it here: [link]\n\nThanks,\nAlex
+1,Meeting recap,"Hi everyone 😊
+
+Great chat today! Action items:
+- Alex: dashboard
+- Sam: data prep
+
+Thanks,
+Alex"
+2,Weekend plans?,"Hi friends ☕
+
+Anyone up for coffee Saturday? Free after 2.
+
+Thanks,
+Alex"
+3,New feature alert!,"Hi team 🚀
+
+Dark-mode toggle is live! Try it here: [link]
+
+Thanks,
+Alex"

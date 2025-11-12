@@ -1,4 +1,19 @@
 email_id,subject,body
-1,Project status,Hello team,\n\nI’m pleased to report we are on track for Q4 launch. Integration tests passed with 98% coverage.\n\nBest regards,\nAlex
-2,Quarterly review,Hello,\n\nAttached is the Q3 performance report. Key highlights: revenue up 12%, churn down 3%.\n\nBest,\nAlex
-3,Approval request,Hello Sarah,\n\nPlease find the budget proposal attached for your review and approval by Friday.\n\nBest regards,\nAlex
+1,Project status,"Hello team,
+
+I’m pleased to report we are on track for Q4 launch. Integration tests passed with 98% coverage.
+
+Best regards,
+Alex"
+2,Quarterly review,"Hello,
+
+Attached is the Q3 performance report. Key highlights: revenue up 12%, churn down 3%.
+
+Best,
+Alex"
+3,Approval request,"Hello Sarah,
+
+Please find the budget proposal attached for your review and approval by Friday.
+
+Best regards,
+Alex"
